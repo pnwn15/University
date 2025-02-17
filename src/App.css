@@ -1,0 +1,6 @@
+@import "tailwindcss";npm run dev
+
+/* ใช้ฟอนต์ TH Sarabun New ทั่วทั้งแอป */
+body {
+    font-family: 'TH Sarabun New', sans-serif;
+}
